@@ -1,0 +1,123 @@
+body {
+	background-color: rgb(104, 187, 285);
+}
+
+#header {
+	text-align: center;
+	text-decoration: underline;
+	border: 2px solid grey;
+}
+
+#container {
+	border: 2px solid grey;
+	margin-top: 20px;
+    height: 1100px;
+}
+
+#left-box{
+	background-color: rgb(9, 30, 45);
+	border: 1px solid #000000;
+	float: left;
+	height: 62%;
+    width: 25%;
+	margin: 10 10 10px 10px;
+	color: white;
+	padding: 10px;
+
+}
+#right-box {
+    background-color: rgb(9,30,45);
+    float: right;
+    height: auto;
+    width: 70%;
+    margin: 10 10 10px 10px;
+    padding: 10px;
+}
+#experiences-box {
+    border: 2px solid grey;
+    margin: 10px;
+    background-color: white;
+    height: auto;
+    width: 95%;
+    text-align: center;
+    color: rgb(9,30,45);
+}
+.experience-comptable {
+	border: 2px solid grey;
+    margin: 10px 10px 10px 10px;
+    padding: 10;
+    background-color: rgb(9,30,45);
+    height: 25%;
+    width: 95%;
+    text-align: justify;
+    color: white; 
+}
+.experience-transport {
+	border: 2px solid grey;
+    margin: 10px 10px 10px 10px;
+    padding: 10;
+    background-color: rgb(9,30,45);
+    height: 25%;
+    width: 95%;
+    text-align: justify;
+    color: white; 
+}
+.autre-experience {
+	border: 2px solid grey;
+    margin: 10px 10px 10px 10px;
+    padding: 10;
+    background-color: rgb(9,30,45);
+    height: 25%;
+    width: 95%;
+    text-align: justify;
+    color: white; 
+}
+#studies-box {
+	border: 2px solid grey;
+    margin: 10px;
+    background-color: white;
+    height: auto;
+    width: 95%;
+    text-align: center;
+    color: rgb(9,30,45);
+}
+.etude-compta {
+	border: 2px solid grey;
+    margin: 10px 10px 10px 10px;
+    padding: 10;
+    background-color: rgb(9,30,45);
+    height: 25%;
+    width: 95%;
+    text-align: justify;
+    color: white; 
+}
+.capacite {
+	border: 2px solid grey;
+    margin: 10px 10px 10px 10px;
+    padding: 10;
+    background-color: rgb(9,30,45);
+    height: 25%;
+    width: 95%;
+    text-align: justify;
+    color: white; 
+}
+.programmation {
+	border: 2px solid grey;
+    margin: 10px 10px 10px 10px;
+    padding: 10;
+    background-color: rgb(9,30,45);
+    height: 25%;
+    width: 95%;
+    text-align: justify;
+    color: white; 
+}
+#footer {
+	width: auto;
+    min-height:20px;
+    text-align: center;
+    border:2px solid grey; 
+    background-color: rgb(107,194,234);
+    margin: 10px;
+ 
+    color: rgb(9,30,45);
+}
